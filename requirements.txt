@@ -1,0 +1,7 @@
+# Direct runtime dependencies; verified with Python 3.10.14.
+# OpenSpiel 1.6.11+local.mingw satisfies this public-version requirement.
+# See docs/environment.md before installing on Windows.
+open-spiel==1.6.11
+numpy==1.26.4
+matplotlib==3.9.2
+torch==2.4.1
